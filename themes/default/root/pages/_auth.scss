@@ -26,7 +26,7 @@
     h3{
       font-family: $corporate-font-family-sans-serif-Regular;
       margin-bottom: 7px;
-      color: $brand-secondary;
+      color: $brand-secundary;
     }
     span{
       font-size: 13px;
@@ -91,14 +91,14 @@
   header{
     padding: 5px 10px 4px 10px;
     min-height: 19px;
-    background-color: $brand-secondary;
+    background-color: $brand-secundary;
     i{
       float: right;
       margin-top: 5px;
       color: $white;
     }
     &:hover{
-      background-color: darken($brand-secondary, 15%);
+      background-color: darken($brand-secundary, 15%);
     }
   }
   img{
@@ -366,7 +366,7 @@
     border: none;
     padding: 0;
     h3{
-      color: $brand-secondary;
+      color: $brand-secundary;
       font-size: 17px !important;
     }
   }
